@@ -1,4 +1,4 @@
-# airlock-campaign
+# Adversary Space
 A repo for *Adversary Space*, a campaign for the *Airlock* TTRPG by Chad Walker
 
 ![Adversary Space banner]()
