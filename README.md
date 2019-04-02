@@ -5,13 +5,9 @@ A repo for *Adversary Space*, a campaign for the *Airlock* TTRPG by Chad Walker
 
 ## Intro
 
-In *Adjudication Space*, PCs serve as judges, called Adjudicators, on an interplanetary circuit court tasked with keeping the peace across the Cantor system.
+In *Adversary Space*, PCs play as change-loving machine learning warriors and their human allies turning the tide against the All, the core planets' empire of total control
 
-Cantor operates on a vast Holacracy. People form different kinds of groups, called cells, to fulfill different roles and responsibilities. Local cells take care of culture, trade, and security and law enforcement. Regional cells help govern what we might think of as cities, provinces, states, or even counties or continents. Planetary cells keep everyone working together. A system cell decides on treaties for all the planets to follow.
-
-Local cells check regional cells; regional cells check planetary cells; planetary cells check the system cell. Treaties don't get ratified without a lot of compromise and consensus.
-
-However, from time to time, a treaty divdes the system, and a majority vote decides its fate. When people resist unpopular treaties, or when they break the old ones, Adjudicators get the call. They are sworn to uphold the treaties by any means necessary and, uniquely, they don't have to follow any of the treaties while getting their work done.
+Check out the [overview](/player-resources/overview.md) to learn more.
 
 ## Miscellaneous
 
