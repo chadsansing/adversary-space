@@ -15,21 +15,21 @@ Machine learning warriors and their human allies discover the truth behind the A
 
 Ship time. 
 
-The PCs have just pulled off a major score in Hidatsa. They've been planning, jumping, stealing, and running for 10 weeks straight. They're groggy, a little tired of each othjer's company, and eager to get off ship. 
+The PCs have just pulled off a major score in Hidatsa. They've been planning, jumping, stealing, and running for 10 weeks straight. They're groggy, a little tired of each other's company, and eager to get off ship. 
 
 They're just about to drop out of hyperspace in Agradum, the capital of the old resistance against the malevolence and the modern-day capital of machine learning warriors's cultural life. They're waking up and gathering in the galley for one last cup of coffee and one more bowl of mush.
 
 - **Stinky Pete**, what did you rob from the All's on Hidatsa, and why did it matter so much?
-- **Skip-jack**, who did you have to shiv with your vibroblade when no one was looking to make sure the mission was a success?
-- **Declaw**, who do you know here? Why do you want to catch up with them? What's the last thing you heard about their adventures?
-- **Gilgamesh-Breeze**, which of those street kids back on the Arikara ringworld in Novarum stood out as your next recruit?
+- **Skip-Jack**, who did you have to shiv with your vibroblade when no one was looking to make sure the mission was a success?
+- **Dewclaw**, who do you know here? Why do you want to catch up with them? What's the last thing you heard about their adventures?
+- **Aesoph**, which of those street kids back on the Arikara ringworld in Hidatsa stood out as your next recruit?
 - **Rebis**, who caused you the most anxiety and fear with their reckless human impulses on that last mission? What did they do?
 
 Once PCs have a chance to answer each question, ask them to set their relationships for one another for this session.
 
 The *Void Treader* drops out into Agadrum space. PCs can breathe easy. The biggest decision they have to make is whether they want to go to the Silver Cradle (mind-bending machine learning warrior alt-reality R&R) or Fomes Argentum (human techno-utopia meets planetary preserve) first.
 
-As they're about to make their decision, Declaw's friend pings the ship from the station at Agadrum gate. After a brutal push to supress rebel resistance in Ifsen and to push the guerilla fleet out of Ifsen's Maze, the All is abandoning the system entirely, and we don't know why. Ifsen's fleet is licking its wounds - they have no interdiction capacity left. We need you to turn around, go to Ifsen, and intercept any All ship remaining in the sector before they all escape. Find out why they're leaving and what they'd done.
+As they're about to make their decision, Dewclaw's friend pings the ship from the station at Agadrum gate. After a brutal push to supress rebel resistance in Ifsen and to push the guerilla fleet out of Ifsen's Maze, the All is abandoning the system entirely, and we don't know why. Ifsen's fleet is licking its wounds - they have no interdiction capacity left. We need you to turn around, go to Ifsen, and intercept any All ship remaining in the sector before they all escape. Find out why they're leaving and what they'd done.
 
 Let the PCs ask questions and improv the answers together to add to Ifsen's lore.
 
