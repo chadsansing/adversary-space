@@ -22,10 +22,10 @@ Intrigue.
 
 The PCs can debrief one of the Core bureaucrats left behind of Ifsen Gate Station.
 
-Remind thePCs that:
+Remind the PCs that:
 
-- Rebel leaders started a genetic wasting disease on Ifsen Prime to destroy its crops.
-- They hoped to driveout the All's forces.
+- Rebel leaders started a genetic wasting disease on Ifsen Solus to destroy its crops.
+- They hoped to drive out the All's forces.
 - They held the cure.
 - At the same time, the All began a purge of rebels, striking at Ifsen Solus and the guerilla fleet in Ifsen's Maze from the Broken Hearth space station.
 - The rebel leaders scattered, or were killed, or were captured and rendered to Benevolent Isolation in Novarum.
@@ -34,9 +34,17 @@ Remind thePCs that:
 Ask each PC a question from the list below to help create the character they're going to question.
 
 - Who were you surprised to find left behind on that station? What's their name?
+	- Chief engineering officer Zanso of the Ifsen Gate Station.
+	- Mercenary; Throny. Blackwater-like contractor for the All; did missions All regulars couldn't keep secret or accomplish.
 - What was their job in Ifsen?
+	- Chief engineering job. Refused to abandon everyone else. Had a modicum of principle.
+	- Part of a crew that worked on the clean-up of the rebels. On leave when the order came to ship out - drunk.
 - What was their tell? How did you know to pick them out from the other refugees for questioning?
+	- Really fidgety; scanned the crowd.
+	- Grabbed a cloak from another refugee and started to try and blend into the crowd.
 - How deeply involved were they with the last purge of rebels in the system?
+	- Unaware of the purge until the end, but may have intercepted some information at the gate.
+	- Intimately involved.
 
 The big problem is that the All tried to disappear the rebels and their leaders and then fled once they detected the genetic wasting disease. They did not leave a paper trail on purpose, at first, and then in their panic, second.
 
