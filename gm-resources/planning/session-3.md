@@ -79,7 +79,7 @@ If the leader agrees to go with the PCs, they all cross back into the iterrogati
 
 ### Scene 4
 
-PCs ch	oose.
+PCs choose.
 
 If the PCs make it back to the station from the land of exile and have all 4 rebel leaders toghether, it's time to escape the prison however they'd like.
 
