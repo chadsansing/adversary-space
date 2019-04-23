@@ -76,6 +76,8 @@ PCs might:
 
 This could also become a combat scene if the PCs want to agree to be boarded. Or they couldeven invite the frigate(s) to dock with their cargo container airlock and then drop it and escape like a space-lizard.
 
+***This is where we ended in Novarum.***
+
 ### Scene 4
 
 Combat.
