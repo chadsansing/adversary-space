@@ -35,7 +35,7 @@ Evasion or Intrigue.
 
 If the PCs look for rebels in the sleep couches, they can find 3, but they need the fourth to decrypt their recipe for the cure. That rebel went into the portal. It will take an Evasions scene to move from the command center or interrogation room into sleep storage and into processing where recent arrivals are being processed (vital telemetry, compliance chip injection, etc.) and then to smuggle the leaders out who will refuse or be unable to speak until brought to safety.
 
-If the PCs go into the portal, it's time for a psychedelic romp in a sub-campaign a la *Die*.
+If the PCs go into the portal, it's time for a psychedelic romp in a sub-campaign a la [*Die*](https://www.polygon.com/2018/12/10/18131140/die-kieron-gillen-rpg-image-comics).
 
 The exile dimension is one of pure possibility - a place where you can realize your dreams and share them with those around you, weaving together fantastic dreamscapes and irrealities. There may not be a way back (a la *Die*) without everyone in a group (as defined by the PCs and everyone they think they need to rescue) agreeing to leave.
 
@@ -79,7 +79,7 @@ If the leader agrees to go with the PCs, they all cross back into the iterrogati
 
 ### Scene 4
 
-PCs choose.
+PCs ch	oose.
 
 If the PCs make it back to the station from the land of exile and have all 4 rebel leaders toghether, it's time to escape the prison however they'd like.
 
