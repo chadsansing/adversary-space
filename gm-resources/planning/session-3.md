@@ -27,7 +27,7 @@ If the PCs enter as prisoners, they are processed into a prison uniform and then
 
 At the end of the scene, they are givcen the choice of a sleep couch and "a period of Benevolent Isolation not to exceed 25 years after which you will be rehabilitated into the service of the All," or an airlock door that "leads to eternal exile."
 
-If the PCs sneak in as authority figures, they can make their way to a command post or observation room to watch one of these interrogations and see a prisoner's choice. Then they can search for records of recent arrivals and see which chose the sleep couches and which chose exile.
+If the PCs sneak in or bluff their way in posing as authority figures, they can make their way to a command post or observation room to watch one of these interrogations and see a prisoner's choice. Then they can search for records of recent arrivals and see which chose the sleep couches and which chose exile.
 
 ### Scene 3
 
@@ -70,10 +70,12 @@ The last rebel leader is here creating a collective utopia. It will take an Ingr
 
 Combat to defeat; Intrigue to convince.
 
-- Punk youth who become machine learning warriors.
+- Punk youth who become machine learning warriors (mlw).
 - An unraveling of arms and tendrils from the core.
-- Chains, bats, dinged blades.
+- Farming tools become neon-laser-tinged chains, bats, blades.
 - Rusted metal torsos, limbs, and oblong, antennaed heads under leathers heavy with pins, patches, nails, and bullets.
+
+There are 6 punk mlws. They each do 4-to-1 with imprpvised weapons. 
 
 If the leader agrees to go with the PCs, they all cross back into the iterrogation chamber together, shock and overcome the guards, and have a few minutes to decide what to do next.
 
