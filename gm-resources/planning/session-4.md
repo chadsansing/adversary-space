@@ -1,41 +1,20 @@
 # Adversary Space
 
-## Session 3
+## Synopsis
 
-### Synopsis
+The PCs must confront the last rebel leader inside the exile dimension and convince them to return to reality to save Ifsen Solus.
 
-The PCs infiltrate Benevolenmt Isolation in Novarum to find the missing leaders of the Ifsen rebellion in hope of reversing the genetic blight on the crops of Ifsen Solus.
-
-- 3 leaders are in sleeper processing as new arrivals to the prison.
-- 1 leader is in the exile world.
+## Scenes
 
 ### Scene 1
 
-Crew.
+Combat; then Intrigue.
 
-The PCs must evade or destroy the two All frigates that intercepted them outside the Novarum gate. They may also surrender in order to be processed into Benevolent Isolation without conflict. They might also try to capture a frigate to ride straight into Benevolent Isolation.
+If the PCs look for rebels in the sleep couches, they can find 3 of the rebel leaders, but they need the fourth to decrypt their recipe for the cure. That rebel went into the portal.
 
-### Scene 2
+Each of the 3 leaders on this side of the portal has part of the cure, but the leader in the exile dimension has the key to decrypt them.
 
-Evasion or Intrigue.
-
-The PCs must board Benevolent Isolation, either by breaking into the station (Evasion) or by posing as beings they're not (Intrigue). They could also fight (Combat), but that would be lethal.
-
-Once they are aboard Benevolent Isolation, they discover it's a portal to somewhere else.
-
-If the PCs enter as prisoners, they are processed into a prison uniform and then experience a scene in which they're taken to a different cell with a robed and masked warden and all their comrades in which they each see a different warden, a different room, and suffer the anguish of a different ally betraying them.
-
-At the end of the scene, they are givcen the choice of a sleep couch and "a period of Benevolent Isolation not to exceed 25 years after which you will be rehabilitated into the service of the All," or an airlock door that "leads to eternal exile."
-
-If the PCs sneak in or bluff their way in posing as authority figures, they can make their way to a command post or observation room to watch one of these interrogations and see a prisoner's choice. Then they can search for records of recent arrivals and see which chose the sleep couches and which chose exile.
-
-**We stopped here.**
-
-### Scene 3
-
-Evasion or Intrigue.
-
-If the PCs look for rebels in the sleep couches, they can find 3, but they need the fourth to decrypt their recipe for the cure. That rebel went into the portal. It will take an Evasions scene to move from the command center or interrogation room into sleep storage and into processing where recent arrivals are being processed (vital telemetry, compliance chip injection, etc.) and then to smuggle the leaders out who will refuse or be unable to speak until brought to safety.
+The PCs can figure out a plan to make it through the portal without playing a scene unless they suggest it (e.g. the find disguises and suggest an Intrigue scene).
 
 If the PCs go into the portal, it's time for a psychedelic romp in a sub-campaign a la [*Die*](https://www.polygon.com/2018/12/10/18131140/die-kieron-gillen-rpg-image-comics).
 
@@ -55,11 +34,13 @@ Impressions of crossing an impossible space.
 
 Which of you is the:
 
-- Dictator? Now you roll d20s instead of d10s; every 20 lets you change something about this world - a foundational rule about your surroundings and how the world works near you.
+- Dictator? Now you roll d4s instead of d10s; every 4 lets you tell someone what to do and they must obey, though there may be a hidden coast for them or you.
 - Godbinder? Now you roll with d12s instead of d10s; every 12 lets you call in a favor from a god - another prisoner here - who shows up and adds to the narrative of your outcome.
 - Neo? Now whenever you roll a 10 part of your gear comes to life to aid you in unexpedted ways; add a success and burn a fatigue from subconsciously animating it.
-- Knight? What emotion drives you? Now to activate a talent you must recall and narrate a time in your life that brought you that feeling, and your passages must be replaced by stories of times that brought you that feeling if they are to have any effect.
+- Knight? Now you roll d8s instead of d10s. What emotion drives you? To activate a talent you must recall and narrate a time in your life that brought you that feeling.
 - Fool? Now you roll 5d6 for every Ops check, but after each roll, you get to cheat and pick a number that is also a 6 so long as you're doing something reckless and dumb even to protect yourself or another.
+
+Except for the Knight, you lose your passages in the exile dimension as the present and your need to find the rebel leader consume your attention.
 
 The last rebel leader is here creating a collective utopia. It will take an Ingrigue scene to get them to give up their dream and return to prison, and perhaps unstructured play or even Combat to get to them - they may be here as a kind of progressive high priest who helps their followers assume incredible forms to defend and preserve their new world order.
 
@@ -70,18 +51,24 @@ The last rebel leader is here creating a collective utopia. It will take an Ingr
 - Systems engineered fields and hydroponic scaffolds.
 - Callow, welcoming youth with edgy haircuts, light, neutral coveralls, simple tools, well-made.
 
-Combat to defeat; Intrigue to convince.
+Combat to defeat; then Intrigue to convince.
 
 - Punk youth who become machine learning warriors (mlw).
 - An unraveling of arms and tendrils from the core.
 - Farming tools become neon-laser-tinged chains, bats, blades.
 - Rusted metal torsos, limbs, and oblong, antennaed heads under leathers heavy with pins, patches, nails, and bullets.
 
-There are 6 punk mlws. They each do 4-to-1 with imprpvised weapons. 
+There are 6 punk mlws. They each do 4-to-1 with improvised weapons. 
 
-If the leader agrees to go with the PCs, they all cross back into the iterrogation chamber together, shock and overcome the guards, and have a few minutes to decide what to do next.
+Once the punks are defeated, the leader will surrender and begin to listen. They must be convinced that:
 
-### Scene 4
+- This place isn't real.
+- In reality, they are a leader who holds the key to save their planet.
+- It's better to fight for Adversary space than rule in this dimension.
+
+If the leader agrees to go with the PCs, they all cross back into the interrogation chamber together, shock and overcome the guards, and have a few minutes to decide what to do next.
+
+### Scene 2
 
 PCs choose.
 
@@ -89,7 +76,12 @@ If the PCs make it back to the station from the land of exile and have all 4 reb
 
 Escape will scramble 8 fighters after the PCs' ship, which may or may not be the *Void Treader*. They may chose another ship if theirs is under too much guard.
 
+Hijacking a shuttle or prison firgate to escape Novarum might take Combat + Crew. Sneaking back to the *Void Treader* to leave Novarum might take Evasion + Crew. Stowing away aboard an All vessel to capture it later might taker Evasion or Intrigue + Combat.
+
 ### What happens next?
+
+The PCs haver to escape Novarum to bring the rebel leaders back to Ifsen. 
 
 ### Reward
 
+- +1 to any Op used this session.
