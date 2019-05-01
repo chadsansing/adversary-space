@@ -18,7 +18,9 @@ The PCs can figure out a plan to make it through the portal without playing a sc
 
 If the PCs go into the portal, it's time for a psychedelic romp in a sub-campaign a la [*Die*](https://www.polygon.com/2018/12/10/18131140/die-kieron-gillen-rpg-image-comics).
 
-The exile dimension is one of pure possibility - a place where you can realize your dreams and share them with those around you, weaving together fantastic dreamscapes and irrealities. There may not be a way back (a la *Die*) without everyone in a group (as defined by the PCs and everyone they think they need to rescue) agreeing to leave.
+Also, any mlw characters in the party will instantly recognize this place as a "splinter prison" or "exile dimension" and relic (right?) of the malevolence - jails full of irreality tailored to anchor their captives' consciousness there. How the All have it and why they're using it are mysteries to be solved.
+
+This splinter prison, or exile dimension, is one of pure possibility - a place where you can realize your dreams and share them with those around you, weaving together fantastic dreamscapes and irrealities. There may not be a way back (a la *Die*) without everyone in a group (as defined by the PCs and everyone they think they need to rescue) agreeing to leave.
 
 Impressions of crossing an impossible space.
 
@@ -35,14 +37,14 @@ Impressions of crossing an impossible space.
 Which of you is the:
 
 - Dictator? Now you roll d4s instead of d10s; every 4 lets you tell someone what to do and they must obey, though there may be a hidden coast for them or you.
-- Godbinder? Now you roll with d12s instead of d10s; every 12 lets you call in a favor from a god - another prisoner here - who shows up and adds to the narrative of your outcome.
+- [Rebis] Godbinder? Now you roll with d12s instead of d10s; every 12 lets you call in a favor from a god - an invocartion of a dead mlw comrade - who shows up and adds 3 progress and story elements to the narrative of your outcome.
 - Neo? Now whenever you roll a 10 part of your gear comes to life to aid you in unexpedted ways; add a success and burn a fatigue from subconsciously animating it.
-- Knight? Now you roll d8s instead of d10s. What emotion drives you? To activate a talent you must recall and narrate a time in your life that brought you that feeling.
-- Fool? Now you roll 5d6 for every Ops check, but after each roll, you get to cheat and pick a number that is also a 6 so long as you're doing something reckless and dumb even to protect yourself or another.
+- [Aesoph] Knight? Now you roll d8s instead of d10s. What emotion drives you? To activate a talent you must recall and narrate a time in your life that brought you that feeling. When you roll an 8, you narrate a new passage aligned with your emotion to get your extra success.
+- [Dewclaw] Fool? Now you roll 5d6 for every Ops check, but after each roll, you get to cheat and pick a number that is also a 6 so long as you're doing something reckless and dumb even to protect yourself or another.
 
-Except for the Knight, you lose your passages in the exile dimension as the present and your need to find the rebel leader consume your attention.
+Except for the Knight, you lose your passages in the exile dimension as the present and your need to find the rebel leader consume your attention. The knight has new passages tied to their emotions.
 
-The last rebel leader is here creating a collective utopia. It will take an Ingrigue scene to get them to give up their dream and return to prison, and perhaps unstructured play or even Combat to get to them - they may be here as a kind of progressive high priest who helps their followers assume incredible forms to defend and preserve their new world order.
+The last rebel leader is here creating a collective utopia. It will take a Combat scene to make them surrender and an Intrigue scene to get them to give up their dream and return to prison. They believe they are here as a kind of progressive high priest who helps their followers assume incredible forms to defend and preserve their new world order.
 
 "I will not leave the revolution when we have finally achieved our goals!"
 
@@ -65,6 +67,15 @@ Once the punks are defeated, the leader will surrender and begin to listen. They
 - This place isn't real.
 - In reality, they are a leader who holds the key to save their planet.
 - It's better to fight for Adversary space than rule in this dimension.
+
+The pressure is created by the world conforming to the leader's ego needs. 
+
+- Phantoms of dead comrades from Ifsen rise to assure them this is real; this is Ifsen.
+- Lovers spring from fields that spring to life: "You have already saved Ifsen; you are home; this will die if you leave."
+- Darkness whirls around the PCs like liquid static resolving in low-res images of All high bureaucrats, capes and masks draped: "You are all agents of the All!"
+- Prisoner's dilemmas: sudden mirroed, facing cells with tables with guns between them. Who attacks? "You are lying!", becoming, "Why are you lying?", and then, "It hurts to think that is true!"
+- The leaders is in a cemetery planting seeds in graves: "It is too late on Ifsen, but I can bring them back to life here."
+- A blank tiled expanse, each becoming a screen of the All, war, loss, death, pain, harm: "Reality is the prison!"
 
 If the leader agrees to go with the PCs, they all cross back into the interrogation chamber together, shock and overcome the guards, and have a few minutes to decide what to do next.
 
