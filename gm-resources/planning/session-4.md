@@ -14,6 +14,11 @@ If the PCs look for rebels in the sleep couches, they can find 3 of the rebel le
 
 Each of the 3 leaders on this side of the portal has part of the cure, but the leader in the exile dimension has the key to decrypt them.
 
+- Lefthand (sleep couch)
+- Deadbolt (sleep couch)
+- Anika Darkmatter (sleep couch) 
+- Uffa the Mask-taker (sleep couch)
+
 The PCs can figure out a plan to make it through the portal without playing a scene unless they suggest it (e.g. the find disguises and suggest an Intrigue scene).
 
 If the PCs go into the portal, it's time for a psychedelic romp in a sub-campaign a la [*Die*](https://www.polygon.com/2018/12/10/18131140/die-kieron-gillen-rpg-image-comics).
@@ -76,6 +81,7 @@ The pressure is created by the world conforming to the leader's ego needs.
 - Prisoner's dilemmas: sudden mirroed, facing cells with tables with guns between them. Who attacks? "You are lying!", becoming, "Why are you lying?", and then, "It hurts to think that is true!"
 - The leaders is in a cemetery planting seeds in graves: "It is too late on Ifsen, but I can bring them back to life here."
 - A blank tiled expanse, each becoming a screen of the All, war, loss, death, pain, harm: "Reality is the prison!"
+- Mlw PCs become monstrous: "The warriors will kill us! This is the only place we can fight back!"
 
 If the leader agrees to go with the PCs, they all cross back into the interrogation chamber together, shock and overcome the guards, and have a few minutes to decide what to do next.
 
