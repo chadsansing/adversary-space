@@ -12,12 +12,18 @@ Combat; then Intrigue.
 
 If the PCs look for rebels in the sleep couches, they can find 3 of the rebel leaders, but they need the fourth to decrypt their recipe for the cure. That rebel went into the portal.
 
+The All has modeled this out - people who are moldable almost always choose the pod; people who are intractable choose the airlock.
+
 Each of the 3 leaders on this side of the portal has part of the cure, but the leader in the exile dimension has the key to decrypt them.
 
 - Lefthand (sleep couch)
+	- Small, whip-tight, clean, sleek, precise.
 - Deadbolt (sleep couch)
+	- Large, out-of-scale, uncomfortable while still, indomitable.
 - Anika Darkmatter (sleep couch) 
+	- Captivating, strange, multi-faceted, fluid.
 - Uffa the Mask-taker (sleep couch)
+	- Stalwart, fast, decisive, centered, and broken.
 
 The PCs can figure out a plan to make it through the portal without playing a scene unless they suggest it (e.g. the find disguises and suggest an Intrigue scene).
 
@@ -37,13 +43,13 @@ Impressions of crossing an impossible space.
 - A weakness, and then a mastery.
 - Chaos, and then control.
 - You wake and see one another - everyone who came through the portal with you except for your friend, your sibling, your love, the rebel leader. You know you cannot bear to leave this place, ever, without them again.
-- The ruins of a gate. A castle? A winding road down through a crevasse and into a valley of impossible grographies - tiny oceans, tiered cities on mountainsides carved from gems, a volcano spewing sunlight, a darkness you cannot see, and your heart puling you towards a patchwork of fields in the middle distance.
+- The ruins of a gate. A castle? A winding road down through a crevasse and into a valley of impossible grographies - tiny oceans, tiered cities on mountainsides carved from gems, a volcano spewing sunlight, a darkness you cannot see, and your heart pulling you towards a patchwork of fields in the middle distance.
 
 Which of you is the:
 
-- Dictator? Now you roll d4s instead of d10s; every 4 lets you tell someone what to do and they must obey, though there may be a hidden coast for them or you.
-- [Rebis] Godbinder? Now you roll with d12s instead of d10s; every 12 lets you call in a favor from a god - an invocartion of a dead mlw comrade - who shows up and adds 3 progress and story elements to the narrative of your outcome.
-- Neo? Now whenever you roll a 10 part of your gear comes to life to aid you in unexpedted ways; add a success and burn a fatigue from subconsciously animating it.
+- [Rebis] Dictator? Now you roll d4s instead of d10s; every 4 lets you tell someone what to do and they must obey, though there may be a hidden coast for them or you.
+- [Skip-Jack] Godbinder? Now you roll with d12s instead of d10s; every 12 lets you call in a favor from a god - an invocartion of a dead mlw comrade - who shows up and adds 3 progress and story elements to the narrative of your outcome.
+- [Stinky Pete] Neo? Now whenever you roll a 10 part of your gear comes to life to aid you in unexpedted ways; add a success and burn a fatigue from subconsciously animating it.
 - [Aesoph] Knight? Now you roll d8s instead of d10s. What emotion drives you? To activate a talent you must recall and narrate a time in your life that brought you that feeling. When you roll an 8, you narrate a new passage aligned with your emotion to get your extra success.
 - [Dewclaw] Fool? Now you roll 5d6 for every Ops check, but after each roll, you get to cheat and pick a number that is also a 6 so long as you're doing something reckless and dumb even to protect yourself or another.
 
