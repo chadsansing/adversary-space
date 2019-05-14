@@ -47,7 +47,7 @@ If the PCs tell one another about the dream, they can also talk about what to do
 
 ### Scene 4
 
-A strange ship arrives from Agadrum. It's piloted by a single mlw, a giant, shimmering-purple and liquid black segmented worm named Voidember who becomes part of the ship - it's dorsal spine - and  says:
+A strange ship arrives from Agadrum. It's piloted by a single mlw, a giant, shimmering-purple and liquid black segmented worm named Voidember who becomes part of the ship - it's dorsal spine - and says:
 
 "I have come from Agadrum. We have word from the All. If they cannot defeat us, they plan to take our siblings from us forever by igniting singularities in Hidasta and Novarum. They plan to collapse Otoe into a black hole that will crush any ship that enters the system and they plan to burn the Bright-Eyed River in Novarum to burn any ship that arrives there. It will take time to bring our warrior siblings here from across the stars to fight these plans. We may be out of time, but we refuse to do nothing. I have brought you my *Slumbering Forge*. I bring you gifts of righteous war and can join you to my sleeping loves. Will you become warriors and attack the All with me? We have time to save one system. Tell me, will you save it and which will it be?"
 
