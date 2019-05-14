@@ -103,7 +103,7 @@ Hijacking a shuttle or prison firgate to escape Novarum might take Combat + Crew
 
 ### What happens next?
 
-The PCs haver to escape Novarum to bring the rebel leaders back to Ifsen. 
+The PCs have to escape Novarum to bring the rebel leaders back to Ifsen. 
 
 ### Reward
 
