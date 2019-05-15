@@ -20,7 +20,6 @@ This is your chance to stop the warden from reporting on what happened here and 
 
 After they're defeated, the warden's psyche will join with the fold in space created by the rent splinter prison and backon the PCs back for the rest of the campaign through dreams.
 
-
 ### Scene 2
 
 Crew
@@ -41,7 +40,7 @@ What do people do for fun here or to unwind or to celebrate? How do the PCs join
 
 That night: each of the PCs has a dream.
 
-You are in a room. One wall is just a giant mirror. In front of that wall there's a table. On that table there is a lamp and a gun. Sometimes you pick up the gun. Sometimes you leave it. Your reflection doesn't always do what you do. Sometimes it picks up the gun and kills you and you wake in the room again, spikes of pain riven into your eyes, the same distance away from the table each time, just like your reflection, and then sometimes you begin killing it. It always gets up moments later. The mirror never shatters, but after death after death after death your bullets begin to chip away at your reflection, and it looks less and less like you, and as your appearance cracks and crumbles, underneath you see darkness, a web of sliver strans, and, finally, the warden's mask beneath your face.
+You are in a room. One wall is just a giant mirror. In front of that wall there's a table. On that table there is a lamp and a gun. Sometimes you pick up the gun. Sometimes you leave it. Your reflection doesn't always do what you do. Sometimes it picks up the gun and kills you and you wake in the room again, spikes of pain driven into your eyes, the same distance away from the table each time, just like your reflection, and then sometimes you begin killing it. It always gets up moments later. The mirror never shatters, but after death after death after death your bullets begin to chip away at your reflection, and it looks less and less like you, and as your appearance cracks and crumbles, underneath you see darkness, a web of sliver strans, and, finally, the warden's mask beneath your face.
 
 If the PCs tell one another about the dream, they can also talk about what to do next. What do they make of the dream? Of the warden's lingering presence in their minds?
 
@@ -49,7 +48,7 @@ If the PCs tell one another about the dream, they can also talk about what to do
 
 A strange ship arrives from Agadrum. It's piloted by a single mlw, a giant, shimmering-purple and liquid black segmented worm named Voidember who becomes part of the ship - it's dorsal spine - and says:
 
-"I have come from Agadrum. We have word from the All. If they cannot defeat us, they plan to take our siblings from us forever by igniting singularities in Hidasta and Novarum. They plan to collapse Otoe into a black hole that will crush any ship that enters the system and they plan to burn the Bright-Eyed River in Novarum to burn any ship that arrives there. It will take time to bring our warrior siblings here from across the stars to fight these plans. We may be out of time, but we refuse to do nothing. I have brought you my *Slumbering Forge*. I bring you gifts of righteous war and can join you to my sleeping loves. Will you become warriors and attack the All with me? We have time to save one system. Tell me, will you save it and which will it be?"
+"I've been on assignment to guard Ifsen from the All and have just received dark news of their plans. If they cannot defeat us, they plan to take our siblings from us forever by igniting singularities in Hidasta and Novarum. They plan to collapse Otoe into a black hole that will crush any ship that enters the system and they plan to burn the Bright-Eyed River in Novarum to burn any ship that arrives there. It will take time to bring our warrior siblings here from across the stars to fight these plans. We may be out of time, but we refuse to do nothing. I have brought you my *Slumbering Forge*. I bring you gifts of righteous war and can join you to my sleeping loves. Will you become warriors and attack the All with me? We have time to save one system. Tell me, will you save it and which will it be?"
 
 Let the PCs choose gifts or to become mlw and then pick a system to save in session 6.
 
