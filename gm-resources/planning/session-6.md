@@ -4,7 +4,7 @@
 
 After accepting Voidember's gifts, the PCs must travel to Novarum or Hidasta to stop the All from closing that system off from the rest of Adversary Space.
 
-The All plans to collapse a gas giant into a small black hole in Hidasta. The All plans to trigger star formationand ignite the nebular in Novarum.
+The All plans to collapse a gas giant into a small black hole in Hidasta. The All plans to trigger star formation and ignite the nebula in Novarum.
 
 ## Scenes
 
@@ -17,6 +17,8 @@ PCs narrate their transformations and pitch scenes with each other to stoke rela
 ### Scene 2
 
 Crew
+
+PCs drop out of space into a field of impossible physics and jarring irrealities. Space and light seem to bend inward toward the platform. Time is running out.
 
 Voidember flies ahead to disable the singularity platform (in Hidasta) or ignition platform (in Novarum) while the PCs distract the All fleet guarding it.
 
